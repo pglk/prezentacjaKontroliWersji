@@ -1,5 +1,5 @@
-Jeden = 1
-Dwa = 3
-Trzy = 4
-Cztery = 5
-Piec = 3
+jeden = 1
+dwa = 3
+trzy = 4
+cztery = 5
+piec = 3
