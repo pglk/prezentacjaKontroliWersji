@@ -5,7 +5,10 @@ Prezentacja Kontroli Wersji
 Oto przykładowe repozytorium utworzone do celów pokazania możliwości oraz wygody jaką niesie ze sobą wersjonowanie plików.
 
 Lista zmian:
+
   -Wer1.0:
+  
+  
     *Na ten moment, dodany(push) został prosty program, edytowany lokalnie na moim komputerze. 
   
 
