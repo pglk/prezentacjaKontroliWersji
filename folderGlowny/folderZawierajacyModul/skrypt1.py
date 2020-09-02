@@ -1,0 +1,1 @@
+print("W ten sposób, prazentuje przykładowy workflow dla pracy z kontrolą wersji")
