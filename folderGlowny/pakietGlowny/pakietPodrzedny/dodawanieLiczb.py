@@ -7,5 +7,5 @@ czteryDodacPiec = cztery + piec
 
 print("zbiór liczb:", jeden, dwa, trzy, cztery, piec)
 
-print("suma 1+2 =" ,jedenDodacDwa)
+print("suma 3+4 =" ,trzyDodacCztery)
 print("suma 4+5 =" ,czteryDodacPiec)
