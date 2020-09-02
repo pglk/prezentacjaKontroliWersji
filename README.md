@@ -6,10 +6,9 @@ Oto przykładowe repozytorium utworzone do celów pokazania możliwości oraz wy
 
 Lista zmian:
 
-  -Wer1.0:
-  
-  
-    *Na ten moment, dodany(push) został prosty program, edytowany lokalnie na moim komputerze. 
+   Wer1.0:
+   
+        *Na ten moment, dodany(push) został prosty program, edytowany lokalnie na moim komputerze. 
   
 
 Planowane zmiany:
