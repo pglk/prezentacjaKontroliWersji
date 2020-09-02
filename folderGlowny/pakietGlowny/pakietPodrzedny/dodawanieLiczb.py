@@ -2,7 +2,7 @@ from listaDanych import *
 
 jedenDodacDwa = jeden + dwa
 dwaDodacTrzy = dwa + trzy
-trzyDodacCztery= cztery + piec
+trzyDodacCztery= trzy + cztery
 czteryDodacPiec = cztery + piec
 
 print("zbiór liczb:", jeden, dwa, trzy, cztery, piec)
