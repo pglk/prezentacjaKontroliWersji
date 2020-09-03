@@ -23,7 +23,7 @@ Oto przykładowe repozytorium utworzone do celów pokazania możliwości oraz wy
  
  - *Paweł Gołkowski*
 
-Historia zmian:
+**Historia zmian:**
 
 
    Wer1.1:
