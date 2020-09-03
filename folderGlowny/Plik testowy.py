@@ -1,0 +1,1 @@
+#nie wywołujący kolizcji z żadnym innym plikiem
